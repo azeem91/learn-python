@@ -2,4 +2,4 @@
 Python learning with projects
 
 # Set Script run permissions
-- `chmod 755 < Script File >`
+- `chmod -R 755 ./scripts`
