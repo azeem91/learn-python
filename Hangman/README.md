@@ -19,4 +19,4 @@
 # Start Dev Env.
 - `npm i -g nodemon` install watcher you may use watchdog
 - Switch to Hangman repo. and run :
-- `nodemon --exec python main.py`
+- `nodemon --exec python3 main.py`
