@@ -1,0 +1,1 @@
+python ./Hangman/main.py
