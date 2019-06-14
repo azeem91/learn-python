@@ -12,11 +12,14 @@
 - Length
 - Print
 - Function
+- class
+- OOP
 
 # Start Game
-- `python main.py`
+- `python3 main.py`
 
 # Start Dev Env.
-- `npm i -g nodemon` install watcher you may use watchdog
+- Install nodemon watcher you may use watchdog
+- `npm i -g nodemon`
 - Switch to Hangman repo. and run :
 - `nodemon --exec python3 main.py`
